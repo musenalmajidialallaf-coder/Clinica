@@ -1,0 +1,12 @@
+CREATE DATABASE clinic_pro;
+USE clinic_pro;
+
+CREATE TABLE doctors (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ full_name VARCHAR(100)
+);
+
+CREATE TABLE patients (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ full_name VARCHAR(100)
+);
