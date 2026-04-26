@@ -1,0 +1,11 @@
+clinic-pro-system
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   └── config/
+│
+├── frontend/
+│   ├── src/
+│
+└── database.sql
